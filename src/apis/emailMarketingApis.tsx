@@ -6,7 +6,7 @@ console.log("this is url text",BACK_END_URL)
 
 export const addEmail = async (formData: any) => {
     try {
-        console.log("this is url ",BACK_END_URL)
+        console.log("this is url 1 ",BACK_END_URL)
         console.log("this b is url ",B_URL)
 
         
