@@ -1,1 +1,0 @@
-import{b as o}from"./Mainlayout-lk4PReF3.js";const r="https://abtik-digital-bn-7q4b.onrender.com",s=async a=>{try{return await o.post(`${r}/contact/addContactDetails`,a)}catch(t){throw t}};export{s as h};
