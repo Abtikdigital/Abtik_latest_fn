@@ -1,4 +1,4 @@
-import{u as s,j as e}from"./index-BHtGxlip.js";import{a as i}from"./Mainlayout-BmndlWIt.js";import{I as l}from"./iPhone-DCB2i5n0.js";const c=()=>{const t=s(),a=()=>{t({type:"open"})};return e.jsx(i,{children:e.jsxs("div",{className:"min-h-screen w-full bg-[#0F172A] ",children:[e.jsxs("div",{className:"flex flex-col md:flex-row items-center justify-between w-full  gap-10 md:gap-0 px-6 md:px-16 py-10",style:{background:`
+import{u as s,j as e}from"./index-CgnRyT4h.js";import{a as i}from"./Mainlayout-DhCnJYUY.js";import{I as l}from"./iPhone-DCB2i5n0.js";const c=()=>{const t=s(),a=()=>{t({type:"open"})};return e.jsx(i,{children:e.jsxs("div",{className:"min-h-screen w-full bg-[#0F172A] ",children:[e.jsxs("div",{className:"flex flex-col md:flex-row items-center justify-between w-full  gap-10 md:gap-0 px-6 md:px-16 py-10",style:{background:`
           radial-gradient(ellipse 50% 80% at top right, #f56015 1%, transparent 50%),
           radial-gradient(ellipse 50% 80% at bottom left, #f56015 1%, transparent 50%),
           #0F172A
