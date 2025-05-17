@@ -7,7 +7,7 @@ import { defineConfig } from "vite"
 export default defineConfig({
   
   // base: '/Abtik-Digital/',
-  base: '/',
+  base: "/", // for root, change if deploying to subpath
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {

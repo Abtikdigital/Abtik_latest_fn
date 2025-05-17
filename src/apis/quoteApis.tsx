@@ -1,5 +1,5 @@
 import axios from "axios";
-const BACK_END_URL ="https://abtik-digital-bn-rokb.onrender.com"
+const BACK_END_URL =import.meta.env.VITE_BACK_END_URL
 
 
 export const addQuote = async (formData: any) => {

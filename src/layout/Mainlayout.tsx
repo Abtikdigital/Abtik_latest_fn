@@ -50,7 +50,7 @@ const Mainlayout = (props: any) => {
       if (res.status == 201) {
         Swal.fire({
           icon: "success",
-          text: "Your Reponse Has Been Sended Successfully",
+          text: "Your Response Has Been Recorded Successfully",
           confirmButtonColor: "#f56015",
         });
       }
